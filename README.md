@@ -36,10 +36,7 @@ email----token----proxy
 example@gmail.com----token----socks5://127.0.0.1:7890
 ```
 
-4. 运行脚本：
-```bash
-python dawn_auto.py
-```
+4. 运行脚本
 
 ## English Instructions
 
@@ -71,10 +68,7 @@ Example:
 example@gmail.com----token----socks5://127.0.0.1:7890
 ```
 
-4. Run script:
-```bash
-python dawn_auto.py
-```
+4. Run script
 
 ## 注意事项 / Notes
 - 请确保代理可用 / Ensure proxy is working
